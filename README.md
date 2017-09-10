@@ -5,9 +5,6 @@ This project uses constraint propagation to build a sudoku solver with naked-twi
 
 ![demo of sudoku solver](./images/pygame.gif)
 
-## Environment 
-This project runs in **Python 3** with Pygame installed with an environment file [here](https://github.com/abhi18av/aind-sudoku/blob/master/aind-environment-osx.yml).
-
 
 ## Run 
 To test the code, run 

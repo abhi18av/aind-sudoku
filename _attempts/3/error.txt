@@ -1,0 +1,17 @@
+(aind) ❯ udacity submit
+Submission includes the following files:
+    solution.py
+    README.md
+
+Uploading submission...
+[=========================== 100% ===========================] 10520/10520
+
+Waiting for results...Done!
+
+Results:
+--------
+{
+    "error": "{\"stdout\": \"\", \"run_stdout\": \"\", \"cmd\": \"sudo -H -u vmuser_bqzmidrp bash -c \\\"cd /home/vmuser_bqzmidrp; ulimit -f 160000 ; ulimit -c 10000 ; python run.py sudoku 1> run_stdout.txt 2> run_stderr.txt\\\"\", \"return_code\": 1, \"run_stderr\": \".Traceback (most recent call last):\\n  File \\\"run.py\\\", line 9, in <module>\\n    main()\\n  File \\\"run.py\\\", line 6, in main\\n    sp.check_call([python3_cmd(), 'run3.py'])\\n  File \\\"/usr/lib/python2.7/subprocess.py\\\", line 541, in check_call\\n    raise CalledProcessError(retcode, cmd)\\nsubprocess.CalledProcessError: Command '['/opt/anaconda3/bin/python', 'run3.py']' returned non-zero exit status -9\\n\", \"stderr\": \"\"}"
+}
+For help troubleshooting, please see the FAQ:
+ https://project-assistant.udacity.com/faq

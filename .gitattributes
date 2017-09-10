@@ -1,3 +1,4 @@
 images/pygame.gif filter=lfs diff=lfs merge=lfs -text
 images/pygame.png filter=lfs diff=lfs merge=lfs -text
 images/sudoku-board-bare.jpg filter=lfs diff=lfs merge=lfs -text
+sudoku-119648.zip filter=lfs diff=lfs merge=lfs -text
